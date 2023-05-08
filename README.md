@@ -15,4 +15,6 @@ El dataset que vamos a analizar trata de la contaminación del aire por hora en 
 
 Se explica que la contaminación del aire es una de las causas más comunes por muertes prematuras en el mundo (1 de cada 5).
 
+Link: https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset
+
 
